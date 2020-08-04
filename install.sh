@@ -11,4 +11,5 @@ install() {
 
 install timestamp github.com/gg-tools/timestamp
 install hashid github.com/gg-tools/hashid
+install hex github.com/gg-tools/hex
 

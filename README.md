@@ -4,6 +4,7 @@ A set of handy command line tools.
 
 - [Timestamp](https://github.com/gg-tools/timestamp)
 - [Hashid](https://github.com/gg-tools/hashid)
+- [Hex](https://github.com/gg-tools/hex)
 
 ## Installation
 
